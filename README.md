@@ -76,4 +76,7 @@ return_date: Date when the order was returned (if applicable)
 shipping_provider: Name of the delivery provider
 
 delivery_status: Current status of delivery (e.g., Delivered, In Transit, Returned)
+
+<img width="1147" height="622" alt="Flipkart Project Schemas" src="https://github.com/user-attachments/assets/07d3b644-a47f-4df1-8d34-6312f707cda9" />
+
 ￼
