@@ -3,7 +3,7 @@ This project contains a relational database schema designed to simulate Flipkart
 With this database, you can:
 Track customer purchases and behavior
 Analyze product sales and revenue trends
-Monitor payment statuses and order fulfillment
+Monitor payment statuses and order fulfillment 
 Evaluate shipping performance and delivery efficiency
 The schema is ideal for SQL practice, data analytics projects, and building dashboards for e-commerce insights.
 Database Schema
