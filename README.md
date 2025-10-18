@@ -1,10 +1,10 @@
-Flipkart Sales Database Schema
+* Flipkart Sales Database Schema
 
 This project contains a relational database schema designed to manage and analyze e-commerce sales data, modeled on Flipkart’s sales operations. The schema includes five main tables: Customers, Payments, Products, Sales, and Shipping. It is suitable for performing data analysis, reporting, and SQL practice involving joins, aggregations, date functions, and other operations.
 
 Tables and Their Descriptions
 
-Customers
+1.Customers
 
 customer_id: Unique identifier for each customer
 
@@ -12,7 +12,7 @@ customer_name: Full name of the customer
 
 state: State of residence of the customer
 
-Payments
+2.Payments
 
 payment_id: Unique identifier for each payment
 
@@ -22,7 +22,7 @@ payment_date: Date when the payment was made
 
 payment_status: Status of the payment (e.g., Completed, Pending, Failed)
 
-Products
+3.Products
 
 product_id: Unique identifier for each product
 
@@ -36,7 +36,7 @@ category: Product category (e.g., Electronics, Apparel)
 
 brand: Brand of the product
 
-Sales
+4.Sales
 
 order_id: Unique identifier for each order
 
@@ -52,7 +52,7 @@ quantity: Number of units ordered
 
 price_per_unit: Price of a single unit at the time of purchase
 
-Shipping
+5.Shipping
 
 shipping_id: Unique identifier for each shipping record
 
