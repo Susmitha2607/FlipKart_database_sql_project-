@@ -1,4 +1,4 @@
--- Flipkart Sales Analysis --
+-- Flipkart_datbase --
 
 -- 1.Retrieve all products along with their total sales revenue from completed orders.--
 
