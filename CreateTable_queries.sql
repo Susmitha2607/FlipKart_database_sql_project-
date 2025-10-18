@@ -1,5 +1,5 @@
 -- Create database
-CREATE DATABASE flipkart_sales;
+CREATE DATABASE flipkart_database;
 
 
 --Create customers table--
